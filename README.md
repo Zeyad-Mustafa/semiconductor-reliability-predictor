@@ -1,4 +1,4 @@
-# 🔬 Semiconductor Reliability Predictor
+#  Semiconductor Reliability Predictor
 
 A machine learning system that predicts semiconductor device failures using time-series sensor data and LSTM neural networks.
 
@@ -6,7 +6,7 @@ A machine learning system that predicts semiconductor device failures using time
 
 ```bash
 # Clone and setup
-git clone <your-repo>
+git clone https://github.com/Zeyad-Mustafa/semiconductor-reliability-predictor.git
 cd semiconductor-reliability-predictor
 
 # Install dependencies
