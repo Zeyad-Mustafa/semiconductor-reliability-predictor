@@ -45,7 +45,7 @@ semiconductor-reliability-predictor/
 - **Anomaly Detection**: Early warning system for device failures
 - **Multiple Sensors**: Temperature, voltage, current, leakage monitoring
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Python 3.8+**
 - **TensorFlow/Keras** - Deep learning models
